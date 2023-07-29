@@ -1,0 +1,6 @@
+miniRT
+*afl*
+*.code-workspace
+*.o
+*.a
+*.py
